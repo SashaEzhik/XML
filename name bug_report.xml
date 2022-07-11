@@ -4,7 +4,7 @@
 		<STEPS_1>Open google.com</STEPS_1>
 		<STEPS_2>Enter in the search bar 1io1jmxnxghduoapksam0</STEPS_2>
 		<STEPS_3>Tap buttom Search</STEPS_3>
-		<STEPS_4>Click on the first link</STEPS_1>
+		<STEPS_4>Click on the first link</STEPS_4>
 
 	</STEPS>
 	<EXPECTED_RESULT>Link opened</EXPECTED_RESULT>
